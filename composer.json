@@ -1,0 +1,15 @@
+{
+    "name": "bolstad/relayer",
+    "description": "Fetch data and pass it along",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Bolstad",
+            "email": "christian@bolstad.se"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
